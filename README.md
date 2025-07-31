@@ -29,19 +29,6 @@ The Student Grading System project is a comprehensive Java application designed 
 - Options include individual student reports and college-wide result summaries.
 - Enhances transparency and accountability in academic assessment.
 
-### 5. Dynamic Animations
-- Incorporates interactive loading animations for a more engaging user experience.
-- Provides visual feedback during data processing tasks.
-- Enhances usability and aesthetics of the application.
-
-## Technologies Used
-
-- **Java**: Core programming language used for application development.
-- **MySQL**: Relational database management system for storing and managing student data.
-- **JDBC**: Java Database Connectivity for seamless interaction with the database.
-- **Git**: Version control system for collaborative development and code management.
-
-
 ## How to Run
 
 1. Clone the repository to your local machine using Git.
@@ -51,20 +38,6 @@ The Student Grading System project is a comprehensive Java application designed 
 5. Run the `Run.java` file to launch the application.
 6. Follow on-screen prompts to add students, insert grades, calculate averages, and generate reports.
 
-## Project Structure
-
-- `Run.java`: Main class containing the entry point of the application.
-- `Reports.java`: Class responsible for generating various types of reports based on user input.
-- `Quries.java`: Contains SQL queries used for database operations.
-- `insert_Grades.java`, `add_Student.java`, `Average.java`: Classes for adding students, inserting grades, and calculating averages respectively.
-- `Animation.java`: Class for creating dynamic loading animations to enhance user experience.
-
-## Database Configuration
-
-The project requires setting up a MySQL database with the following tables and values:
-
-### Tables
-- **Grades**: Main table to store student grades and information.
 
 ### Values
 Modify the following values according to your requirements:
